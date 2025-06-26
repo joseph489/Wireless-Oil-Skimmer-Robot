@@ -6,7 +6,7 @@ A Wi-Fi-enabled robotic system designed for environmental cleanup by skimming fl
 
 ##  Project Overview
 
-The robot automates oil collection using a rotating drum mechanism, dual propeller motors for movement, and a water pump—all controlled wirelessly via smartphone. It also includes an ultrasonic sensor for obstacle detection, making the system semi-autonomous and user-friendly.
+The robot automates oil collection using a rotating drum mechanism, dual propeller motors for movement, and a water pump all controlled wirelessly via smartphone. It also includes an ultrasonic sensor for obstacle detection, making the system semi-autonomous and user-friendly.
 
 ---
 
