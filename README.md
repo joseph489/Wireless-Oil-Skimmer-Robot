@@ -42,7 +42,7 @@ The robot automates oil collection using a rotating drum mechanism, dual propell
 
 ## Project Guide
 
-- **Er.[Nishanth P R]**  
+- **Er.Nishanth P R**  
   Assistant Professor 
   Department of Robotics and Automation  
   Saintgits College Of Engineering 
