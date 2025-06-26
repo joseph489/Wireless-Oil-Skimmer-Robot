@@ -51,7 +51,7 @@ The robot automates oil collection using a rotating drum mechanism, dual propell
 
 ## 📢 License
 
-All Rights Reserved © 2024. Patent pending.  
+All Rights Reserved © 2024–Present. Patent pending.  
 No part of this work may be copied, reproduced, or reused without explicit permission from the authors.
 
 ---
