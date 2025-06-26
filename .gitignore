@@ -1,32 +1,39 @@
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
-*.o
+# Arduino build files
+*.elf
+*.hex
+*.bin
+*.eep
 *.obj
+*.d
+*.map
 
-# Precompiled Headers
-*.gch
-*.pch
+# Arduino backup files
+*.ino.*
+*.bak
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
+# Compiled object files
+*.o
 *.a
-*.lib
+*.so
 
-# Executables
-*.exe
-*.out
-*.app
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*.DS_Store
+Thumbs.db
+
+# VS Code and PlatformIO folders
+.vscode/
+.pio/
+
+# Arduino IDE project folder
+*.sketchbook
+
+# Private or sensitive files 
+secrets.h
+auth.txt
+wifi_config.h
+
+# Mac OS metadata
+.DS_Store
