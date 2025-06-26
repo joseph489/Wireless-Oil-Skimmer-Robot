@@ -1,15 +1,15 @@
 
-#define BLYNK_TEMPLATE_ID "TMPL3pAYjJUQe"
-#define BLYNK_TEMPLATE_NAME "shonless test"
-#define BLYNK_AUTH_TOKEN "4OG5bp4ayO6s-OnGadUg3Wat32FjEykP"// Include required libraries
+#define BLYNK_TEMPLATE_ID "000000000"
+#define BLYNK_TEMPLATE_NAME "Skimmer"
+#define BLYNK_AUTH_TOKEN "000000000000"// Include required libraries
 #define BLYNK_PRINT Serial
 #include <WiFi.h>
 #include <BlynkSimpleEsp32.h>
 
 // Blynk Credentials
-char auth[] = "4OG5bp4ayO6s-OnGadUg3Wat32FjEykP";
+char auth[] = "000000000000000";
 char ssid[] = "0000000000";
-char pass[] = "000000000";
+char pass[] = "0000000000";
 
 // Define Motor Pins
 #define IN1 27  // Left Motor Direction 1
