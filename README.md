@@ -32,7 +32,7 @@ The robot automates oil collection using a rotating drum mechanism, dual propell
 
 ---
 
-## 👥 Team Members
+## Team Members
 
 - **Joseph Varghese** – Robot Design & Firmware Development  
 - **Joby Kuruvilla** – Hardware Integration & Assembly  
@@ -40,12 +40,12 @@ The robot automates oil collection using a rotating drum mechanism, dual propell
 - **Shon Sebastian** – Component Support and Logistics
 ---
 
-## 👨‍🏫 Project Guide
+## Project Guide
 
 - **Er.[Nishanth P R]**  
   Assistant Professor 
   Department of Robotics and Automation  
-  [Saintgits College Of Engineering ]
+  Saintgits College Of Engineering 
 
 ---
 
@@ -58,6 +58,6 @@ No part of this work may be copied, reproduced, or reused without explicit permi
 
 ## 📷 Media & Documentation (Coming Soon)
 
-> Diagrams, circuit schematics, and demo videos will be added here.
+
 
 
