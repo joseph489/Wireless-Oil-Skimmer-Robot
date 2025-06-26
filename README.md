@@ -32,6 +32,14 @@ The robot automates oil collection using a rotating drum mechanism, dual propell
 
 ---
 
+## 💻 Source Code
+
+-The complete Arduino source code for the Wireless Oil Skimmer Robot is available in this repository:
+
+📂 [`Main_code.ino`](Main_code.ino)
+
+---
+
 ## Team Members
 
 - **Joseph Varghese** – Robot Design & Firmware Development  
