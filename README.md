@@ -2,6 +2,8 @@
 
 A Wi-Fi-enabled robotic system designed for environmental cleanup by skimming floating oil from water surfaces. Built using the ESP32 microcontroller and integrated with the Blynk IoT platform, the robot offers remote control of key components and basic obstacle detection through mobile app integration.
 
+![image alt](https://github.com/joseph489/Wireless-Oil-Skimmer-Robot/blob/c1fba10e67e50df713a5cbb54895f13fbc9b7de7/images/image1.jpeg)
+
 ---
 
 ##  Project Overview
