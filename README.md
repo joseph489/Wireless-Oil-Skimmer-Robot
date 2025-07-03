@@ -8,6 +8,8 @@ A Wi-Fi-enabled robotic system designed for environmental cleanup by skimming fl
 
 The robot automates oil collection using a rotating drum mechanism, dual propeller motors for movement, and a water pump all controlled wirelessly via smartphone. It also includes an ultrasonic sensor for obstacle detection, making the system semi-autonomous and user-friendly.
 
+![image alt](https://github.com/joseph489/Wireless-Oil-Skimmer-Robot/blob/73914bf818345516dc8b2cd406622e9145917690/images/image2.jpg)
+
 ---
 
 ## 🔧 Features
