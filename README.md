@@ -6,7 +6,9 @@ A Wi-Fi-enabled robotic system designed for environmental cleanup by skimming fl
 
 ##  Project Overview
 
-The robot automates oil collection using a rotating drum mechanism, dual propeller motors for movement, and a water pump all controlled wirelessly via smartphone. It also includes an ultrasonic sensor for obstacle detection, making the system semi-autonomous and user-friendly.
+The Wireless Oil Skimmer Robot is an IoT-enabled robotic system developed to address environmental concerns related to oil pollution on water surfaces. This compact and modular robot automates the oil collection process using a rotating drum mechanism designed to attract and capture floating oil efficiently. Mobility is achieved through dual propeller motors, enabling smooth navigation across the water surface. A relay-controlled water pump assists in the collection and discharge of liquid waste.
+
+All components are controlled wirelessly via a smartphone using the Blynk IoT platform, providing real-time control and monitoring. An onboard ultrasonic sensor enables basic obstacle detection and avoidance, making the system semi-autonomous and user-friendly. Designed with a focus on low cost, ease of deployment, and adaptability, the robot offers a practical solution for small-scale environmental cleanup operations.
 
 ![image alt](https://github.com/joseph489/Wireless-Oil-Skimmer-Robot/blob/73914bf818345516dc8b2cd406622e9145917690/images/image2.jpg)
 
