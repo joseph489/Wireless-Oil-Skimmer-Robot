@@ -31,7 +31,7 @@ All components are controlled wirelessly via a smartphone using the Blynk IoT pl
 - Blynk IoT Platform  
 - L298N Motor Driver Modules  
 - HC-SR04 Ultrasonic Sensor  
-- DC & Brushless Motors  
+- DC  Motors 
 - Relay Module
 
 ---
